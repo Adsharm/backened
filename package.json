@@ -2,7 +2,7 @@
   "name": "backened-project",
   "version": "1.0.0",
   "description": "a backened project",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -10,6 +10,7 @@
   "author": "Aditya Kumar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
   }
 }
